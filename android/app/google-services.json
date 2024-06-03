@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381133429589",
+    "project_id": "d-file-fcc73",
+    "storage_bucket": "d-file-fcc73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381133429589:android:50deaee9357019213a2ddc",
+        "android_client_info": {
+          "package_name": "com.example.divyang_sir_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8hoWbv1aycRjGneV_Zl3wXd1ZEndijg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
